@@ -1,3 +1,7 @@
+#UAS LAB PBK
+Nama: saddam albi rezha
+Npm: 213510376
+
 # weather-widget
 
 ## Project setup
